@@ -32,7 +32,7 @@ class _Login_page_1State extends State<Login_page_1>{
                   "Hello Again!",
                   style: GoogleFonts.aboreto(
                     fontSize: 52,
-                    //fontWeight: FontWeight.bold,
+                    fontWeight: FontWeight.bold,
                   ),
                   //TextStyle(
                   //   fontWeight: FontWeight.bold,
